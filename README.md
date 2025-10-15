@@ -1,3 +1,3 @@
-# Reasoning4LLMs
+# LLMs
 
-benchmarking reasoning for LLMs on Ollama 
+stuff about LLMs. currently experimenting. look at here too https://huggingface.co/pierjoe
